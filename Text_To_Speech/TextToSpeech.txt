@@ -1,0 +1,4 @@
+Hi, My name is Baji.
+I am a software developer.
+I am learning python.
+I Love to develop new applications.
